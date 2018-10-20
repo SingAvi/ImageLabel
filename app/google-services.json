@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "4838565272",
+    "firebase_url": "https://imagelabel-23c9f.firebaseio.com",
+    "project_id": "imagelabel-23c9f",
+    "storage_bucket": "imagelabel-23c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4838565272:android:601cd40b2ed6d1fc",
+        "android_client_info": {
+          "package_name": "com.singavi.imagelabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4838565272-khptcvumuhg38r8forghp2h119016ivd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBbi0aUsGExnmBiab0igG6gaPw5iq-lm8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
